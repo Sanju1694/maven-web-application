@@ -121,6 +121,7 @@
 				<configuration>
 					<source>${jdk.version}</source>
 					<target>${jdk.version}</target>
+					<executable>C:\Program Files\Java\jdk1.8.0_251\bin\javac</executable>
 				</configuration>
 			</plugin>
 
